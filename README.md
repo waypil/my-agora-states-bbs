@@ -1,1 +1,1 @@
-# https://waypil.github.io/fe-sprint-my-agora-states/
+# https://waypil.github.io/my-agora-states-bbs/
